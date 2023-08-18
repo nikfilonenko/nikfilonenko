@@ -1,4 +1,4 @@
-### Hi there 👋
+![github-header-image (1)](https://github.com/nikfilonenko/nikfilonenko/assets/103507130/e5557768-4f58-4aae-81cb-2431b88943c2)
 
 <!--
 **nikfilonenko/nikfilonenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
