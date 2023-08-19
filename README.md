@@ -9,3 +9,6 @@
 ### 📫  Email: nikdfil@yandex.ru
 #
 ##  <p  align="center">Useful links to learn more about me 🥇</p>
+### 👽 Resume: [Click to go](https://gist.github.com/nikfilonenko/ddecc2e2f4f2a581ce7f97a27a31fd37)
+### 🚀 Diplomas & Certificates: [Click to go](https://gist.github.com/nikfilonenko/ddecc2e2f4f2a581ce7f97a27a31fd37)
+### ⚡ Profile on LeetCode: [Click to go](https://gist.github.com/nikfilonenko/ddecc2e2f4f2a581ce7f97a27a31fd37)
