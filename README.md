@@ -6,8 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=04EB11&width=435&lines=Briefly+about+me)](https://git.io/typing-svg)
 
-#### I am engaged in the design and development of machine learning models, the creation of a data processing pipeline and the implementation of models in production.
-#### I have experience in `CV` and `NLP`, as well as image markup and text data.
+### I am engaged in the design and development of machine learning models, the creation of a data processing pipeline and the implementation of models in production.
+### I have experience in `CV` and `NLP`, as well as image markup and text data.
 
 -----
 
