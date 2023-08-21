@@ -6,13 +6,13 @@
 
 -----
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=04EB11&width=435&lines=Briefly+about+me)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=04EB11&width=435&lines=Briefly+about+me)
 
 ### <p  align="center">I am engaged in the design and development of machine learning models, the creation of a data processing pipeline and the implementation of models in production.</p>
 ### <p  align="center">I have experience in `CV` and `NLP`, as well as image markup and text data.</p>
 
 #
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F562&background=FF005800&width=435&lines=Education)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F562&background=FF005800&width=435&lines=Education)
 
 📍 **RUT (MIIT) (ex. MGUPS of Emperor Nicholas II)**: Computer Science and Computer Engineering. Software of computer equipment and automated systems.
 
