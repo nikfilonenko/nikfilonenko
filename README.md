@@ -14,7 +14,7 @@
 #
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F562&background=FF005800&width=435&lines=Education)
 
-📍 **RUT (MIIT) (ex. MGUPS of Emperor Nicholas II)**: Computer Science and Computer Engineering. Software of computer equipment and automated systems.
+📍 **RUT (MIIT) (ex. MGUPS of Emperor Nikolai II)**: Computer Science and Computer Engineering. Software of computer equipment and automated systems.
 
 📍 **Innopolis University**: Artificial Intelligence and Machine Learning (Advanced training)
 
