@@ -9,7 +9,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=04EB11&width=435&lines=Briefly+about+me)
 
 ### <p  align="center">I am engaged in the design and development of machine learning models, the creation of a data processing pipeline and the implementation of models in production.</p>
-### <p  align="center">I have experience in `CV` and `NLP`, as well as image markup and text data.</p>
+### <p  align="center">I have experience in `CV` and `NLP`, and also in `classic ML`, markup of images and text data.</p>
 
 #
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F562&background=FF005800&width=435&lines=Education)
