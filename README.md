@@ -1,4 +1,4 @@
-![github-header-image (1)](https://github.com/nikfilonenko/nikfilonenko/assets/103507130/e5557768-4f58-4aae-81cb-2431b88943c2)
+![github-header-image](https://github.com/nikfilonenko/nikfilonenko/assets/103507130/d464ffb0-6072-4a87-9d58-162aff3bfca9)
 
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=nikfilonenko&style=for-the-badge&color=blue" alt=""/>
