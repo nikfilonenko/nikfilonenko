@@ -16,7 +16,7 @@
 
 📍 **RUT (MIIT) (ex. MGUPS of Emperor Nikolai II)**: Computer Science and Computer Engineering. Software of computer equipment and automated systems.
 
-📍 **Innopolis University**: Artificial Intelligence and Machine Learning (Advanced training)
+📍 **Innopolis University**: Artificial Intelligence and Machine Learning (Professional development)
 
 -----
 
