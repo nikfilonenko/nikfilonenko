@@ -32,5 +32,5 @@
 ##  <p  align="center">Useful links to learn more about me 🥇</p>
 ### 👽 Resume: [Click to go](https://gist.github.com/nikfilonenko/ddecc2e2f4f2a581ce7f97a27a31fd37)
 ### 🚀 Diplomas & Certificates: [Click to go](https://github.com/nikfilonenko/certificates_and_diplomas)
-### ⚡ Profile on LeetCode: [Click to go](/////)
+### ⚡ Profile on LeetCode: [Click to go](https://leetcode.com/nikfilonenko)
 ### 💡 Projects: [Click to go](/////)
