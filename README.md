@@ -8,8 +8,9 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=04EB11&width=435&lines=Briefly+about+me)
 
-### <p  align="center">I am engaged in the design and development of machine learning models, the creation of a data processing pipeline and the implementation of models in production.</p>
-### <p  align="center">I have experience in `CV` and `NLP`, and also in `classic ML`, markup of images and text data.</p>
+### 👨‍🎓 Master of FCS HSE (Applied Mathematics and Computer Science)</p>
+### 💻 Full stack ML-engineer / Data scientist (NLP, LLM, CV, classic ml, MLOps, Big Data)</p>
+### 🍵 Researcher in the field of AI/DL</p>
 
 
 -----
